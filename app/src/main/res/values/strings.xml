@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layout Test</string>
+
+    <string-array name="optionsArray">
+        <item>add</item>
+        <item>subtract</item>
+        <item>multiply</item>
+        <item>divide</item>
+        <item>modulo</item>
+    </string-array>
+
+</resources>
